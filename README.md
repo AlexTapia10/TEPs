@@ -1,4 +1,19 @@
-# TON Enhancement Proposals (TEPs)
+./0000-template.md to ./text/0000-my-new-transfer.md where "my-new-transfer"  # TON Enhancement Proposals (TEPs)
+./assets/0000-my-new-standard/
+.///up flop
+.///up preflop
+.///up turn out Miau
+cart win ♥️♦️♣️♠️
+higth
+one pair
+two pair 
+three of king 
+straigth
+flush
+full
+poker
+straight full
+./assets/0000-my-new-transfer/
 
 > :warning: **WARNING:** this proposal system is experimental now, the process is a subject to change.
 
